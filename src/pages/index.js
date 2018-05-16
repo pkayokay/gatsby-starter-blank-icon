@@ -3,7 +3,6 @@ import Link from 'gatsby-link'
 
 const IndexPage = () => (
   <div>
-    <h1>Blank Icon</h1>
   </div>
 )
 
